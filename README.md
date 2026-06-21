@@ -35,15 +35,6 @@
 | [**mijia-win**](https://github.com/kongbaiming/mijia-win) | 米家智能家居 Windows 客户端 | TypeScript |
 | [**network-scanner**](https://github.com/kongbaiming/network-scanner) | 局域网设备扫描 | HTML / JS |
 
-<details>
-<summary>📂 更多仓库（点击展开）</summary>
-
-- [ChatGPT-Next-Web-me](https://github.com/kongbaiming/ChatGPT-Next-Web-me) — 跨平台 AI 聊天 UI  fork
-- [go-to-go](https://github.com/kongbaiming/go-to-go) — Go 语言学习笔记
-- [Scriptable](https://github.com/kongbaiming/Scriptable) — iOS Scriptable 脚本
-
-</details>
-
 ---
 
 ## 🚀 MediaHub 快速一瞥
